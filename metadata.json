@@ -1,0 +1,5 @@
+{
+  "name": "R.P.S. Public School Result Management System",
+  "description": "A comprehensive school result management system for viewing, adding, and managing student marksheets. It includes separate panels for administrators, teachers, and a public view for students.",
+  "requestFramePermissions": []
+}
